@@ -1,1 +1,1 @@
-ini file2
+ini ganti file2
