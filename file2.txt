@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ini file2asddasdadsasdsad
+=======
+ini ganti file2
+>>>>>>> c0ca381fe894d02a6281b22a0da13105c5563ea9
